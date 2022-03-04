@@ -12,7 +12,7 @@ TextWrap = "b718987f-49a8-5099-9789-dcd902bef87d"
 
 [compat]
 Crayons = "^4"
-TERMIOS = "^0.2"
+TERMIOS = "^0.3"
 TextWrap = "^1"
 julia = "1"
 
